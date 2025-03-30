@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "The Matrix",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+      "description": "A computer programmer discovers a mysterious world of digital reality.",
+      "genre": "Sci-Fi",
+      "rating": 8.7,
+      "year": 1999,
+      "duration": "2h 16min",
+      "director": "Lana Wachowski, Lilly Wachowski"
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+      "description": "A thief who enters the dreams of others to steal secrets.",
+      "genre": "Action, Adventure",
+      "rating": 8.8,
+      "year": 2010,
+      "duration": "2h 28min",
+      "director": "Christopher Nolan"
+    }
+  ]

@@ -1,0 +1,32 @@
+.movie-detail {
+    display: flex;
+    padding: 40px;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 40px;
+}
+
+.movie-detail img {
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.movie-info {
+    flex: 1;
+}
+
+.movie-info h1 {
+    margin-bottom: 20px;
+}
+
+.details {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.details p {
+    margin: 5px 0;
+}
